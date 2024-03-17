@@ -12,7 +12,7 @@ This repo contains data collected with WildRank 3 during the official competitio
 
 | Event                         | Version |
 | ----------------------------- | ------- |
-| Central Illinois Regional     | 3.TBD   |
+| Central Illinois Regional     | 3.0.1   |
 | Midwest Regional              | 3.TBD   |
 
 ## How do I read this data?

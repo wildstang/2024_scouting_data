@@ -1,0 +1,1 @@
+[{"function": "mean", "key": "stats.auto_speaker_made"}, {"function": "mean", "key": "stats.tele_speaker_made"}, {"function": "mean", "key": "stats.tele_amp_made"}, {"function": "total", "key": "stats.match_teleop_end_game_climb"}, {"function": "mean", "key": "stats.tele_subwoofer_accuracy"}]

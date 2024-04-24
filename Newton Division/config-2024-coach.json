@@ -1,0 +1,1 @@
+[{"function": "mean", "key": "stats.teleop_speaker_made"}, {"function": "max", "key": "stats.teleop_speaker_made"}, {"function": "mean", "key": "stats.teleop_amp_made"}, {"function": "mean", "key": "stats.match_teleop_scoring_lob_pass"}, {"function": "mean", "key": "stats.auto_speaker_made"}, {"function": "total", "key": "stats.match_teleop_end_game_climb"}]
